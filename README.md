@@ -12,7 +12,7 @@ Mata Kuliah : Pemrograman Web
 
 ## Membuat Sistem Antrian Sederhana Mengunakan Framework CodeIgniter4
 
-## Link dokumentasi sistem: https://www.youtube.com/watch?v=TGrJcSHOMaQ
+## Link dokumentasi sistem: https://www.youtube.com/watch?v=O1pVMYLBgL4
 
 ## Link demo website: http://emarosida.my.id/
 
